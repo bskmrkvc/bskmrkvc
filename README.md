@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 **Boško Marković**
+# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 𝗕𝗼š𝗸𝗼 𝗠𝗮𝗿𝗸𝗼𝘃𝗶ć
 
 𝑰 ❤️ 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
@@ -10,8 +10,8 @@
 
 ## 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:
 
-[<img align="left" alt="nasreekar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/bskmrkvc)
-[<img align="left" alt="nasreekar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bosko-markovic-0884a5163/)
+[<img align="center" alt="bskmrkvc | Twitter" width="22px" src="https://cdn.svgporn.com/logos/twitter.svg" />](https://twitter.com/bskmrkvc)
+[<img align="center" alt="bosko markovic | LinkedIn" width="22px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />](https://www.linkedin.com/in/bosko-markovic-0884a5163/)
 <br/>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸

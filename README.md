@@ -93,7 +93,10 @@
   </tbody>
 </table>
 
-## 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+## 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 (all linked in my LinkedIn profile)
 
-<code><img height= "40" alt="free code camp" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0"></code>
-<code><img height= "40" alt="the odin project" src="https://avatars.githubusercontent.com/u/4441966?s=280&v=4"></code>
+<div align="center">
+  <code><img height= "40" alt="free code camp" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0"></code>
+  <code><img height= "40" alt="the odin project" src="https://avatars.githubusercontent.com/u/4441966?s=280&v=4"></code>
+  <code><img height= "40" alt="sololearn" src="https://blob.sololearn.com/avatars/sololearn.png"></code>
+</div>
